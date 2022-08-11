@@ -1,5 +1,4 @@
-"Do not take life too seriously. You will never get out of it alive."
-                                              By : "Elbert Hubbard"
+"Walking on water and developing software from a specification are easy if both are frozen."
 
 <!---
 mumer119131/mumer119131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
