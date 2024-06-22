@@ -3,7 +3,7 @@
 <h6>“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” – Antoine de Saint-Exupery</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumer119131&label=Profile%20views&color=0e75b6&style=flat" alt="mumer119131" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=mumer119131](https://github-profile-trophy.vercel.app/?username=mumer119131&no-frame=true)" alt="mumer119131" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mumer119131](https://github-profile-trophy.vercel.app/?username=mumer119131&no-frame=true" alt="mumer119131" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
