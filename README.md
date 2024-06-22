@@ -24,7 +24,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mumer119131&" alt="mumer119131" /></p>
+<p style="display:none;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mumer119131&" alt="mumer119131" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mumer11913"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mumer11913" /></a></p><br><br>
