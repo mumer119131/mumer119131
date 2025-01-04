@@ -3,14 +3,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mumer119131&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="300" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mumer119131&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&custom_title=Used%20Languages" height="250" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mumer119131&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="200" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mumer119131&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&custom_title=Used%20Languages" height="180" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://imgur.com/J8Uh67C"  />
+  <img height="200" src="https://imgur.com/J8Uh67C.gif"  />
 </div>
 
 ###
@@ -174,12 +174,6 @@
   <a href="https://www.hackerrank.com/profile/mumer119131" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
