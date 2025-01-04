@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img height="" src="https://www.animatedimages.org/data/media/562/animated-line-image-0323.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=mumer119131&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="200" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mumer119131&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&custom_title=Used%20Languages" height="180" alt="languages graph"  />
 </div>
@@ -15,7 +21,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -186,6 +192,12 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/mumer119131/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="" src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif"  />
 </div>
 
 ###
